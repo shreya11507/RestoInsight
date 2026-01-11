@@ -1,0 +1,8 @@
+
+{
+  "name": "RestoInsight",
+  "description": "A high-end restaurant analytics and real-time monitoring dashboard with guest sentiment tracking, team performance metrics, and anomaly detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

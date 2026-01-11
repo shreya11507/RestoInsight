@@ -1,0 +1,13 @@
+opencv-python
+deepface
+tf-keras
+numpy<2.0
+Pillow
+tqdm
+protobuf>=5.26.1
+face_recognition
+scipy
+dlib
+scikit-learn
+firebase-admin
+google-generativeai

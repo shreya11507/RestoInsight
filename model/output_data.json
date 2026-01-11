@@ -1,0 +1,4870 @@
+{
+  "emotion_snapshots": [
+    {
+      "id": "cb986228-6806-4535-a0a5-fe5ef897ccc3",
+      "table_number": 1,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.834,
+      "bounding_box": {
+        "x": 290,
+        "y": 80,
+        "w": 51,
+        "h": 51
+      },
+      "captured_at": "2025-12-31T06:11:32.691705"
+    },
+    {
+      "id": "f609ea30-ff3a-430a-8681-29c1e3eecfe3",
+      "table_number": 1,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "sad",
+      "confidence": 0.603,
+      "bounding_box": {
+        "x": 312,
+        "y": 93,
+        "w": 40,
+        "h": 40
+      },
+      "captured_at": "2025-12-31T06:11:34.077947"
+    },
+    {
+      "id": "6b84ce8c-a4cb-4801-81ed-fcf2005eac5e",
+      "table_number": 1,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "sad",
+      "confidence": 0.647,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:35.830499"
+    },
+    {
+      "id": "5183712d-d27c-4850-ae26-f8f348d17a17",
+      "table_number": 1,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.458,
+      "bounding_box": {
+        "x": 511,
+        "y": 153,
+        "w": 54,
+        "h": 54
+      },
+      "captured_at": "2025-12-31T06:11:37.104103"
+    },
+    {
+      "id": "bf128223-27b6-4f21-876e-d489a9ad9851",
+      "table_number": 1,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "happy",
+      "confidence": 0.494,
+      "bounding_box": {
+        "x": 305,
+        "y": 95,
+        "w": 41,
+        "h": 41
+      },
+      "captured_at": "2025-12-31T06:11:37.807641"
+    },
+    {
+      "id": "e8af3cb4-3f2c-44ca-944b-78a29730f764",
+      "table_number": 1,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "sad",
+      "confidence": 0.556,
+      "bounding_box": {
+        "x": 326,
+        "y": 90,
+        "w": 40,
+        "h": 40
+      },
+      "captured_at": "2025-12-31T06:11:39.637443"
+    },
+    {
+      "id": "2fcaa988-179d-40b5-8e24-5726f97884e6",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 0.902,
+      "bounding_box": {
+        "x": 203,
+        "y": 211,
+        "w": 79,
+        "h": 79
+      },
+      "captured_at": "2025-12-31T06:11:40.969061"
+    },
+    {
+      "id": "330d151c-18ef-43da-803b-3237f334ff1f",
+      "table_number": 1,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "sad",
+      "confidence": 0.98,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:43.124334"
+    },
+    {
+      "id": "fa5d666a-febc-44b2-999d-1e6028737056",
+      "table_number": 1,
+      "person_id": "guest_8",
+      "person_type": "guest",
+      "person_name": "Guest 8",
+      "emotion": "fear",
+      "confidence": 0.931,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:44.919133"
+    },
+    {
+      "id": "b9bb7d35-aa5d-49c4-b409-d98ad6fbe7d4",
+      "table_number": 1,
+      "person_id": "guest_9",
+      "person_type": "guest",
+      "person_name": "Guest 9",
+      "emotion": "angry",
+      "confidence": 0.962,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:46.565125"
+    },
+    {
+      "id": "675cb4d0-cf90-4383-ab7b-6318c7c27f9a",
+      "table_number": 1,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "angry",
+      "confidence": 0.95,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:48.438997"
+    },
+    {
+      "id": "b7de512e-7b88-4194-a044-3ec4409e94bf",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "fear",
+      "confidence": 0.861,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:50.111563"
+    },
+    {
+      "id": "11f7cc08-f6c7-43e9-8352-1d6fb3eed393",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "happy",
+      "confidence": 0.995,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:11:51.898911"
+    },
+    {
+      "id": "9b76e9cc-ffcc-43ac-82e2-ee33da56bd37",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "sad",
+      "confidence": 0.596,
+      "bounding_box": {
+        "x": 200,
+        "y": 151,
+        "w": 127,
+        "h": 127
+      },
+      "captured_at": "2025-12-31T06:11:53.521707"
+    },
+    {
+      "id": "cd10e041-a976-427c-9a3a-bf29dc1752a6",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "angry",
+      "confidence": 0.493,
+      "bounding_box": {
+        "x": 195,
+        "y": 157,
+        "w": 192,
+        "h": 192
+      },
+      "captured_at": "2025-12-31T06:11:54.973323"
+    },
+    {
+      "id": "b0a66cf9-c702-40d2-ab9a-525168f794d9",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "sad",
+      "confidence": 0.457,
+      "bounding_box": {
+        "x": 193,
+        "y": 155,
+        "w": 193,
+        "h": 193
+      },
+      "captured_at": "2025-12-31T06:11:56.448293"
+    },
+    {
+      "id": "1ae13165-7282-4306-a298-113e80fd945f",
+      "table_number": 1,
+      "person_id": "staff_Oviya",
+      "person_type": "staff",
+      "person_name": "Oviya",
+      "emotion": "neutral",
+      "confidence": 0.873,
+      "bounding_box": {
+        "x": 656,
+        "y": 131,
+        "w": 75,
+        "h": 75
+      },
+      "captured_at": "2025-12-31T06:11:58.698853"
+    },
+    {
+      "id": "6e8c1f20-29d7-4c80-bc36-b41c5f77f12d",
+      "table_number": 1,
+      "person_id": "guest_11",
+      "person_type": "guest",
+      "person_name": "Guest 11",
+      "emotion": "angry",
+      "confidence": 0.427,
+      "bounding_box": {
+        "x": 343,
+        "y": 149,
+        "w": 76,
+        "h": 76
+      },
+      "captured_at": "2025-12-31T06:11:59.398600"
+    },
+    {
+      "id": "f1b9e564-15ce-4f2d-97bf-a177b7578418",
+      "table_number": 1,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "neutral",
+      "confidence": 0.966,
+      "bounding_box": {
+        "x": 412,
+        "y": 118,
+        "w": 81,
+        "h": 81
+      },
+      "captured_at": "2025-12-31T06:12:00.133410"
+    },
+    {
+      "id": "cc9364e6-883f-4c1a-bcd2-4e4a04075837",
+      "table_number": 1,
+      "person_id": "guest_13",
+      "person_type": "guest",
+      "person_name": "Guest 13",
+      "emotion": "angry",
+      "confidence": 0.571,
+      "bounding_box": {
+        "x": 517,
+        "y": 118,
+        "w": 82,
+        "h": 82
+      },
+      "captured_at": "2025-12-31T06:12:00.854979"
+    },
+    {
+      "id": "f878bf85-2112-444d-a81b-730161b84565",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "fear",
+      "confidence": 0.598,
+      "bounding_box": {
+        "x": 195,
+        "y": 158,
+        "w": 190,
+        "h": 190
+      },
+      "captured_at": "2025-12-31T06:12:02.231444"
+    },
+    {
+      "id": "0bf8742c-3856-4cb4-9849-26ca5239c9f1",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "fear",
+      "confidence": 0.573,
+      "bounding_box": {
+        "x": 197,
+        "y": 158,
+        "w": 188,
+        "h": 188
+      },
+      "captured_at": "2025-12-31T06:12:03.698496"
+    },
+    {
+      "id": "0833a5d6-518a-4789-9fa3-aa8b14b5d00b",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "fear",
+      "confidence": 0.576,
+      "bounding_box": {
+        "x": 202,
+        "y": 159,
+        "w": 184,
+        "h": 184
+      },
+      "captured_at": "2025-12-31T06:12:05.082181"
+    },
+    {
+      "id": "759e8865-971d-4161-8ef7-8e948d6daf51",
+      "table_number": 1,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "sad",
+      "confidence": 0.501,
+      "bounding_box": {
+        "x": 199,
+        "y": 156,
+        "w": 188,
+        "h": 188
+      },
+      "captured_at": "2025-12-31T06:12:06.502212"
+    },
+    {
+      "id": "8c795bcf-2fa4-46ab-933f-e1ab0fb55da6",
+      "table_number": 1,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "neutral",
+      "confidence": 0.465,
+      "bounding_box": {
+        "x": 494,
+        "y": 130,
+        "w": 192,
+        "h": 192
+      },
+      "captured_at": "2025-12-31T06:12:07.830986"
+    },
+    {
+      "id": "d7f2e207-09db-44fc-af47-52527069320c",
+      "table_number": 1,
+      "person_id": "guest_14",
+      "person_type": "guest",
+      "person_name": "Guest 14",
+      "emotion": "sad",
+      "confidence": 0.776,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:10.493550"
+    },
+    {
+      "id": "36f9e071-b749-4b9e-b6e7-8703109a7584",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:12.196860"
+    },
+    {
+      "id": "8d9983f3-9571-4df1-8823-dc4873d48ade",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.422,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:14.058011"
+    },
+    {
+      "id": "9e789334-68e2-458c-99e7-d4bf4ff295ad",
+      "table_number": 1,
+      "person_id": "guest_15",
+      "person_type": "guest",
+      "person_name": "Guest 15",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:15.804548"
+    },
+    {
+      "id": "1ae0f6db-345a-431b-aea2-5c1b711560d9",
+      "table_number": 1,
+      "person_id": "guest_13",
+      "person_type": "guest",
+      "person_name": "Guest 13",
+      "emotion": "happy",
+      "confidence": 0.924,
+      "bounding_box": {
+        "x": 412,
+        "y": 121,
+        "w": 133,
+        "h": 133
+      },
+      "captured_at": "2025-12-31T06:12:17.245411"
+    },
+    {
+      "id": "b2d61433-0871-44c7-8bfb-bf31b2c35f1f",
+      "table_number": 1,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 242,
+        "y": 125,
+        "w": 132,
+        "h": 132
+      },
+      "captured_at": "2025-12-31T06:12:17.997151"
+    },
+    {
+      "id": "72477141-7e54-4617-b096-333d9e3dcfc3",
+      "table_number": 1,
+      "person_id": "guest_11",
+      "person_type": "guest",
+      "person_name": "Guest 11",
+      "emotion": "neutral",
+      "confidence": 0.865,
+      "bounding_box": {
+        "x": 62,
+        "y": 176,
+        "w": 137,
+        "h": 137
+      },
+      "captured_at": "2025-12-31T06:12:18.742625"
+    },
+    {
+      "id": "7f2aa118-454d-42d0-b974-268086cb2618",
+      "table_number": 1,
+      "person_id": "staff_Oviya",
+      "person_type": "staff",
+      "person_name": "Oviya",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 562,
+        "y": 146,
+        "w": 128,
+        "h": 128
+      },
+      "captured_at": "2025-12-31T06:12:19.464025"
+    },
+    {
+      "id": "0a936dfa-088e-4885-ae9a-4e83f74f3ee5",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "neutral",
+      "confidence": 0.48,
+      "bounding_box": {
+        "x": 597,
+        "y": 105,
+        "w": 73,
+        "h": 73
+      },
+      "captured_at": "2025-12-31T06:12:20.796865"
+    },
+    {
+      "id": "d8974d48-6592-4d8d-9bc3-fd255110d20b",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.953,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:22.547764"
+    },
+    {
+      "id": "0e4a4732-04fe-4a8a-a165-9f0f295337c2",
+      "table_number": 1,
+      "person_id": "guest_17",
+      "person_type": "guest",
+      "person_name": "Guest 17",
+      "emotion": "happy",
+      "confidence": 0.522,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:24.501290"
+    },
+    {
+      "id": "dce8b2cc-d2e4-44f9-b3af-2a810a6e10a4",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.849,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:26.278308"
+    },
+    {
+      "id": "317df34c-c6a1-4251-98b5-0313e426c140",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.978,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:27.708368"
+    },
+    {
+      "id": "8bc2b95a-5da8-48a1-b5a8-af6fab051cd1",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.92,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:29.452935"
+    },
+    {
+      "id": "498c7441-635e-4c87-b29a-f2c34bf472cb",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.518,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:31.313264"
+    },
+    {
+      "id": "b9910b53-9185-43a7-a537-210401444e26",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 0.961,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:33.163038"
+    },
+    {
+      "id": "edbbdf78-1baa-4df3-aa68-40e441e47b22",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.532,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:35.139888"
+    },
+    {
+      "id": "c876a81c-6ca3-43bc-a8e3-f5c1ba5376e9",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.629,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:37.040843"
+    },
+    {
+      "id": "f93dfd76-da3e-4a9a-8efb-f5b928d91459",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "sad",
+      "confidence": 0.874,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:38.991382"
+    },
+    {
+      "id": "d163a012-01c4-48c5-91b6-04c4cc7672ac",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.828,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:40.636848"
+    },
+    {
+      "id": "2ba6922e-7b3c-45dc-8608-b1737e5defbe",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "sad",
+      "confidence": 0.932,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:42.392951"
+    },
+    {
+      "id": "e1006230-13e5-4266-8ca3-b148be280f31",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 0.991,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:44.268707"
+    },
+    {
+      "id": "b5a0e774-bb92-49e7-95f2-1f0ca401763c",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "sad",
+      "confidence": 0.509,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:46.193164"
+    },
+    {
+      "id": "1d952503-b09f-44d5-8a73-506452c36c99",
+      "table_number": 1,
+      "person_id": "staff_Ram",
+      "person_type": "staff",
+      "person_name": "Ram",
+      "emotion": "neutral",
+      "confidence": 0.624,
+      "bounding_box": {
+        "x": 378,
+        "y": 101,
+        "w": 80,
+        "h": 80
+      },
+      "captured_at": "2025-12-31T06:12:47.473359"
+    },
+    {
+      "id": "ab09ceac-3896-4dea-a055-d49cc06178cc",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.647,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:49.316392"
+    },
+    {
+      "id": "b933f713-0b68-4176-974a-2de05b51e567",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.805,
+      "bounding_box": {
+        "x": 253,
+        "y": 311,
+        "w": 52,
+        "h": 52
+      },
+      "captured_at": "2025-12-31T06:12:50.699425"
+    },
+    {
+      "id": "ef27be8b-bce0-4199-b790-5705cbadd2e3",
+      "table_number": 1,
+      "person_id": "guest_18",
+      "person_type": "guest",
+      "person_name": "Guest 18",
+      "emotion": "fear",
+      "confidence": 0.615,
+      "bounding_box": {
+        "x": 0,
+        "y": 192,
+        "w": 205,
+        "h": 205
+      },
+      "captured_at": "2025-12-31T06:12:52.093330"
+    },
+    {
+      "id": "6f617ef0-919a-4696-9dfd-e6a5d6bc161c",
+      "table_number": 1,
+      "person_id": "guest_18",
+      "person_type": "guest",
+      "person_name": "Guest 18",
+      "emotion": "sad",
+      "confidence": 0.953,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:54.026573"
+    },
+    {
+      "id": "4a41eda6-f258-44fe-81ab-532d8ff09908",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.589,
+      "bounding_box": {
+        "x": 68,
+        "y": 315,
+        "w": 95,
+        "h": 95
+      },
+      "captured_at": "2025-12-31T06:12:55.334981"
+    },
+    {
+      "id": "b22869a3-7521-4a41-ab01-da25e146e93d",
+      "table_number": 1,
+      "person_id": "guest_19",
+      "person_type": "guest",
+      "person_name": "Guest 19",
+      "emotion": "neutral",
+      "confidence": 0.998,
+      "bounding_box": {
+        "x": 550,
+        "y": 116,
+        "w": 66,
+        "h": 66
+      },
+      "captured_at": "2025-12-31T06:12:56.576427"
+    },
+    {
+      "id": "4a5970e0-770d-4772-8dcd-0bac2b53759c",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "fear",
+      "confidence": 0.664,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:12:58.435637"
+    },
+    {
+      "id": "7b719bab-3b82-4855-a692-fad2d002a894",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "neutral",
+      "confidence": 0.99,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:00.351885"
+    },
+    {
+      "id": "378abcc4-3c34-4c7c-84e2-ef73e3f13b50",
+      "table_number": 1,
+      "person_id": "guest_20",
+      "person_type": "guest",
+      "person_name": "Guest 20",
+      "emotion": "fear",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:02.118124"
+    },
+    {
+      "id": "eedff7b1-8a9a-44b9-bc0b-ffc23acb3847",
+      "table_number": 1,
+      "person_id": "guest_8",
+      "person_type": "guest",
+      "person_name": "Guest 8",
+      "emotion": "neutral",
+      "confidence": 0.974,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:03.841787"
+    },
+    {
+      "id": "d0253f9e-0680-4d19-9366-9a0f168adb74",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:06.068310"
+    },
+    {
+      "id": "12c3078b-ebc9-4318-867c-22e077077ea4",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "sad",
+      "confidence": 0.944,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:07.900742"
+    },
+    {
+      "id": "f1658e31-9fc8-4991-b41c-e1ea47cda9f4",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "sad",
+      "confidence": 0.742,
+      "bounding_box": {
+        "x": 639,
+        "y": 123,
+        "w": 78,
+        "h": 78
+      },
+      "captured_at": "2025-12-31T06:13:09.169746"
+    },
+    {
+      "id": "2616ee2d-6327-4de0-9b4d-0bb49e33e754",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "sad",
+      "confidence": 0.501,
+      "bounding_box": {
+        "x": 215,
+        "y": 320,
+        "w": 55,
+        "h": 55
+      },
+      "captured_at": "2025-12-31T06:13:10.398367"
+    },
+    {
+      "id": "39f5746a-edf9-45c5-86d2-e1053593a109",
+      "table_number": 1,
+      "person_id": "staff_Ram",
+      "person_type": "staff",
+      "person_name": "Ram",
+      "emotion": "sad",
+      "confidence": 0.405,
+      "bounding_box": {
+        "x": 349,
+        "y": 107,
+        "w": 82,
+        "h": 82
+      },
+      "captured_at": "2025-12-31T06:13:11.700859"
+    },
+    {
+      "id": "aed5cb92-36c6-4940-99c7-88d5fe0e1c08",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "angry",
+      "confidence": 0.989,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:13.537652"
+    },
+    {
+      "id": "8fe08db3-6e61-478d-8cca-7120eec9525d",
+      "table_number": 1,
+      "person_id": "guest_21",
+      "person_type": "guest",
+      "person_name": "Guest 21",
+      "emotion": "sad",
+      "confidence": 0.57,
+      "bounding_box": {
+        "x": 463,
+        "y": 263,
+        "w": 56,
+        "h": 56
+      },
+      "captured_at": "2025-12-31T06:13:14.880701"
+    },
+    {
+      "id": "6f1fbddd-9b5b-45e1-875e-f918f2f31828",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "angry",
+      "confidence": 0.984,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:16.715097"
+    },
+    {
+      "id": "12836dd7-2ec5-48cd-948a-537e0ae1e2e9",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 512,
+        "y": 95,
+        "w": 111,
+        "h": 111
+      },
+      "captured_at": "2025-12-31T06:13:18.103174"
+    },
+    {
+      "id": "bc170f9e-dad5-4c3a-8da8-ea9d1d17fc6e",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "angry",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:19.869749"
+    },
+    {
+      "id": "bdf49d4c-5772-4cc6-9201-760c26fe90e9",
+      "table_number": 1,
+      "person_id": "guest_22",
+      "person_type": "guest",
+      "person_name": "Guest 22",
+      "emotion": "neutral",
+      "confidence": 0.849,
+      "bounding_box": {
+        "x": 395,
+        "y": 127,
+        "w": 83,
+        "h": 83
+      },
+      "captured_at": "2025-12-31T06:13:21.377097"
+    },
+    {
+      "id": "5d26f8a0-0c24-4ed6-9e03-6fdbe497ec29",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.628,
+      "bounding_box": {
+        "x": 214,
+        "y": 328,
+        "w": 55,
+        "h": 55
+      },
+      "captured_at": "2025-12-31T06:13:22.763968"
+    },
+    {
+      "id": "82b977f1-7d2a-4269-99e9-1fe89076f333",
+      "table_number": 1,
+      "person_id": "staff_Ram",
+      "person_type": "staff",
+      "person_name": "Ram",
+      "emotion": "sad",
+      "confidence": 0.519,
+      "bounding_box": {
+        "x": 419,
+        "y": 116,
+        "w": 82,
+        "h": 82
+      },
+      "captured_at": "2025-12-31T06:13:23.494262"
+    },
+    {
+      "id": "2a785408-7078-48e4-96b5-22dd38e81401",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.939,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:25.363771"
+    },
+    {
+      "id": "077cc431-6d37-41fd-9f28-0cfa8d7c0cff",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "neutral",
+      "confidence": 0.561,
+      "bounding_box": {
+        "x": 594,
+        "y": 125,
+        "w": 72,
+        "h": 72
+      },
+      "captured_at": "2025-12-31T06:13:26.723908"
+    },
+    {
+      "id": "0e1a63e3-0c3a-44e3-b32b-93e0e1132019",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.751,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:28.656739"
+    },
+    {
+      "id": "836f4bbb-8c07-4fc7-a4c7-bc0e3c71eef3",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "neutral",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 611,
+        "y": 112,
+        "w": 75,
+        "h": 75
+      },
+      "captured_at": "2025-12-31T06:13:29.952253"
+    },
+    {
+      "id": "8a157cd6-b8ab-4e39-ad16-e027082e4821",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "sad",
+      "confidence": 0.522,
+      "bounding_box": {
+        "x": 581,
+        "y": 116,
+        "w": 79,
+        "h": 79
+      },
+      "captured_at": "2025-12-31T06:13:31.385044"
+    },
+    {
+      "id": "28b4adc2-ce53-4b7c-a55a-2d10d13b4b28",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "angry",
+      "confidence": 0.995,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:33.125527"
+    },
+    {
+      "id": "617f2135-4b11-487a-943e-7bf32992e0d3",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.873,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:34.960601"
+    },
+    {
+      "id": "65104889-d5eb-4dc5-a69c-d6e9fe739e76",
+      "table_number": 1,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "angry",
+      "confidence": 0.988,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:36.786198"
+    },
+    {
+      "id": "b2957976-a35a-4d95-b267-239a1e225aa5",
+      "table_number": 1,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "angry",
+      "confidence": 0.532,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:38.586861"
+    },
+    {
+      "id": "3b5e5367-57d4-4a01-a8bf-978c890201bc",
+      "table_number": 1,
+      "person_id": "staff_Ram",
+      "person_type": "staff",
+      "person_name": "Ram",
+      "emotion": "neutral",
+      "confidence": 0.515,
+      "bounding_box": {
+        "x": 371,
+        "y": 118,
+        "w": 81,
+        "h": 81
+      },
+      "captured_at": "2025-12-31T06:13:39.979194"
+    },
+    {
+      "id": "a36caf70-9d12-4181-973c-2131b19ad2f3",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.767,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:41.690860"
+    },
+    {
+      "id": "7877a89e-fc88-4d8c-a5ec-d83b904a5055",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.587,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:43.492170"
+    },
+    {
+      "id": "12e15f0c-3149-4a21-93ba-2946cbdab497",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.677,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:45.200499"
+    },
+    {
+      "id": "6ce3dceb-7c33-45cf-917c-28402a0ed664",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:46.912065"
+    },
+    {
+      "id": "5aecd900-4d70-4f11-ba95-a95510d13d30",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.863,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:48.707483"
+    },
+    {
+      "id": "84309337-b499-41c6-a604-c50827f9f8ad",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.685,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:50.481142"
+    },
+    {
+      "id": "3e14afe3-64b8-406f-a2d3-953dce4f9e93",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.814,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:52.540580"
+    },
+    {
+      "id": "e7ecba99-1fab-4ef1-8ec4-616282aeb02b",
+      "table_number": 2,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "angry",
+      "confidence": 0.874,
+      "bounding_box": {
+        "x": 424,
+        "y": 95,
+        "w": 65,
+        "h": 65
+      },
+      "captured_at": "2025-12-31T06:13:53.833957"
+    },
+    {
+      "id": "25cec949-664a-4c4e-8015-0905e5737a7c",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.952,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:55.720788"
+    },
+    {
+      "id": "108ea946-8d7d-4cf3-a2d4-92a49a892288",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.897,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:13:57.549907"
+    },
+    {
+      "id": "94e67bb4-ca96-413b-bb40-856f27a23317",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "happy",
+      "confidence": 0.505,
+      "bounding_box": {
+        "x": 471,
+        "y": 128,
+        "w": 82,
+        "h": 82
+      },
+      "captured_at": "2025-12-31T06:13:58.846298"
+    },
+    {
+      "id": "3245b016-5ff6-4e9b-a9ae-cce0429ac93f",
+      "table_number": 2,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "neutral",
+      "confidence": 0.861,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:00.703199"
+    },
+    {
+      "id": "c3000862-2d20-4a59-8be4-bc93f3c8a66c",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "happy",
+      "confidence": 0.92,
+      "bounding_box": {
+        "x": 468,
+        "y": 122,
+        "w": 92,
+        "h": 92
+      },
+      "captured_at": "2025-12-31T06:14:02.027457"
+    },
+    {
+      "id": "ac308f80-5c25-4fd9-80eb-ed8f43b0ab9c",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.783,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:03.852449"
+    },
+    {
+      "id": "f264e44b-0704-40bb-a9c5-af19b15f81ce",
+      "table_number": 2,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "sad",
+      "confidence": 0.762,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:05.741876"
+    },
+    {
+      "id": "76e17845-8169-4603-893b-edce07171d17",
+      "table_number": 2,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "neutral",
+      "confidence": 0.422,
+      "bounding_box": {
+        "x": 331,
+        "y": 54,
+        "w": 135,
+        "h": 135
+      },
+      "captured_at": "2025-12-31T06:14:07.052155"
+    },
+    {
+      "id": "40b3f7e3-aa17-4c25-b1b2-fbe1d9c0057b",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.968,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:08.841274"
+    },
+    {
+      "id": "4eaef217-3185-4c88-9c32-e330df895a0a",
+      "table_number": 2,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "neutral",
+      "confidence": 0.957,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:10.646699"
+    },
+    {
+      "id": "c4405f9e-a879-422a-8d2f-4676fd2e1eb0",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.905,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:12.488657"
+    },
+    {
+      "id": "5672874f-6801-479e-8603-dcbe3a654edc",
+      "table_number": 2,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.673,
+      "bounding_box": {
+        "x": 627,
+        "y": 293,
+        "w": 72,
+        "h": 72
+      },
+      "captured_at": "2025-12-31T06:14:13.863496"
+    },
+    {
+      "id": "a5c23e24-bedc-4b5c-b3c6-cd5dd083d631",
+      "table_number": 2,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "neutral",
+      "confidence": 0.85,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:15.608836"
+    },
+    {
+      "id": "5295772c-c06f-4ebb-af89-f6d0024082a9",
+      "table_number": 2,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "fear",
+      "confidence": 0.942,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:17.366884"
+    },
+    {
+      "id": "403a149a-0136-42bb-b4b6-086daae899f2",
+      "table_number": 2,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.766,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:19.261281"
+    },
+    {
+      "id": "d9eac951-2ed9-4d3b-87b4-5d039ce6ee9d",
+      "table_number": 2,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "fear",
+      "confidence": 0.806,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:21.060674"
+    },
+    {
+      "id": "6dd64592-da0a-45b0-9809-ff256c83b60b",
+      "table_number": 2,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "surprise",
+      "confidence": 0.551,
+      "bounding_box": {
+        "x": 637,
+        "y": 297,
+        "w": 72,
+        "h": 72
+      },
+      "captured_at": "2025-12-31T06:14:22.312431"
+    },
+    {
+      "id": "b867c88c-6158-4aba-93b9-abc681f33073",
+      "table_number": 2,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "fear",
+      "confidence": 0.676,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:24.078906"
+    },
+    {
+      "id": "40f03e36-2412-4a61-8e94-caac22a2087f",
+      "table_number": 2,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "sad",
+      "confidence": 0.406,
+      "bounding_box": {
+        "x": 206,
+        "y": 72,
+        "w": 109,
+        "h": 109
+      },
+      "captured_at": "2025-12-31T06:14:25.397832"
+    },
+    {
+      "id": "0d70e0ad-7a53-4bc1-b686-53357a9007f6",
+      "table_number": 2,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "happy",
+      "confidence": 0.996,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:27.192458"
+    },
+    {
+      "id": "ccda8605-d238-4734-8ac3-170cb2a76bc3",
+      "table_number": 2,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "fear",
+      "confidence": 0.979,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:29.031731"
+    },
+    {
+      "id": "e09673a8-627d-4374-9c8c-809820984f9c",
+      "table_number": 3,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:30.861818"
+    },
+    {
+      "id": "f2b1e05c-c251-43e6-b5a7-1e36dd44216c",
+      "table_number": 4,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.923,
+      "bounding_box": {
+        "x": 541,
+        "y": 143,
+        "w": 170,
+        "h": 170
+      },
+      "captured_at": "2025-12-31T06:14:32.191812"
+    },
+    {
+      "id": "fed6ca0b-314f-448c-97a0-5c4da45cd70a",
+      "table_number": 4,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "happy",
+      "confidence": 0.666,
+      "bounding_box": {
+        "x": 614,
+        "y": 142,
+        "w": 203,
+        "h": 203
+      },
+      "captured_at": "2025-12-31T06:14:33.633108"
+    },
+    {
+      "id": "506f9d03-811b-45b3-b353-f366aafaf03b",
+      "table_number": 4,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "neutral",
+      "confidence": 0.622,
+      "bounding_box": {
+        "x": 646,
+        "y": 188,
+        "w": 169,
+        "h": 169
+      },
+      "captured_at": "2025-12-31T06:14:34.960266"
+    },
+    {
+      "id": "d9752378-75b7-4b4e-99a1-37595b07549e",
+      "table_number": 4,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "happy",
+      "confidence": 0.996,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:36.768503"
+    },
+    {
+      "id": "eeeffc55-71ad-47ef-be73-7556911c204c",
+      "table_number": 4,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "angry",
+      "confidence": 0.915,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:38.550048"
+    },
+    {
+      "id": "6d58deb1-8e95-4d0b-9772-88d9830561a6",
+      "table_number": 4,
+      "person_id": "staff_Ram",
+      "person_type": "staff",
+      "person_name": "Ram",
+      "emotion": "neutral",
+      "confidence": 0.491,
+      "bounding_box": {
+        "x": 275,
+        "y": 27,
+        "w": 384,
+        "h": 384
+      },
+      "captured_at": "2025-12-31T06:14:40.184370"
+    },
+    {
+      "id": "c16c8b1c-3f23-4b03-856b-001f64e7d479",
+      "table_number": 4,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "fear",
+      "confidence": 0.594,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:41.871657"
+    },
+    {
+      "id": "92fd030c-5b44-4c9e-9125-63e08dc3c62b",
+      "table_number": 4,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "neutral",
+      "confidence": 0.981,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:43.748802"
+    },
+    {
+      "id": "2ace8085-5368-48e2-9aef-f9874f4c6c1c",
+      "table_number": 5,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 194,
+        "y": 0,
+        "w": 393,
+        "h": 393
+      },
+      "captured_at": "2025-12-31T06:14:45.487695"
+    },
+    {
+      "id": "8d752f6e-f259-4760-88e6-022963c71470",
+      "table_number": 6,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.86,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:47.318021"
+    },
+    {
+      "id": "04ab085b-976b-43cd-a23f-ba774367451f",
+      "table_number": 6,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.777,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:49.181744"
+    },
+    {
+      "id": "1816f6ac-54c7-4a12-9517-6ab5ed62cb3d",
+      "table_number": 7,
+      "person_id": "staff_Ravi",
+      "person_type": "staff",
+      "person_name": "Ravi",
+      "emotion": "happy",
+      "confidence": 0.995,
+      "bounding_box": {
+        "x": 395,
+        "y": 42,
+        "w": 371,
+        "h": 371
+      },
+      "captured_at": "2025-12-31T06:14:50.799786"
+    },
+    {
+      "id": "22ea6ab2-59a8-490a-a513-2c7c2cf03305",
+      "table_number": 8,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.577,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:14:52.692880"
+    },
+    {
+      "id": "f864c320-4f46-46ef-a05b-801566f604e3",
+      "table_number": 9,
+      "person_id": "staff_Ravi",
+      "person_type": "staff",
+      "person_name": "Ravi",
+      "emotion": "happy",
+      "confidence": 0.433,
+      "bounding_box": {
+        "x": 406,
+        "y": 41,
+        "w": 372,
+        "h": 372
+      },
+      "captured_at": "2025-12-31T06:14:54.355753"
+    },
+    {
+      "id": "2b24af4c-408b-486a-b1ad-e8d84f94d76d",
+      "table_number": 9,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 201,
+        "y": 28,
+        "w": 350,
+        "h": 350
+      },
+      "captured_at": "2025-12-31T06:14:56.016581"
+    },
+    {
+      "id": "9770b616-4ee0-42f6-9cc7-b3acfc8ab03b",
+      "table_number": 9,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "fear",
+      "confidence": 0.959,
+      "bounding_box": {
+        "x": 390,
+        "y": 77,
+        "w": 118,
+        "h": 118
+      },
+      "captured_at": "2025-12-31T06:14:57.390299"
+    },
+    {
+      "id": "bf095426-2e27-4316-8d65-b0f6bca634a0",
+      "table_number": 9,
+      "person_id": "staff_Kiran",
+      "person_type": "staff",
+      "person_name": "Kiran",
+      "emotion": "fear",
+      "confidence": 0.752,
+      "bounding_box": {
+        "x": 313,
+        "y": 115,
+        "w": 153,
+        "h": 153
+      },
+      "captured_at": "2025-12-31T06:14:58.659288"
+    },
+    {
+      "id": "aad8880f-1996-4939-aa46-02eb075ba3fb",
+      "table_number": 9,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "angry",
+      "confidence": 0.976,
+      "bounding_box": {
+        "x": 8,
+        "y": 162,
+        "w": 142,
+        "h": 142
+      },
+      "captured_at": "2025-12-31T06:15:00.128821"
+    },
+    {
+      "id": "0b184c4f-3531-4794-aa3b-8cfd28e91018",
+      "table_number": 9,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.538,
+      "bounding_box": {
+        "x": 317,
+        "y": 118,
+        "w": 114,
+        "h": 114
+      },
+      "captured_at": "2025-12-31T06:15:00.890873"
+    },
+    {
+      "id": "ddc4ecf4-d7e4-434c-aad8-d424a7896602",
+      "table_number": 9,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.995,
+      "bounding_box": {
+        "x": 353,
+        "y": 113,
+        "w": 131,
+        "h": 131
+      },
+      "captured_at": "2025-12-31T06:15:02.187177"
+    },
+    {
+      "id": "80acb905-5759-4d2b-98d6-a140bd57f79e",
+      "table_number": 9,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.97,
+      "bounding_box": {
+        "x": 374,
+        "y": 115,
+        "w": 134,
+        "h": 134
+      },
+      "captured_at": "2025-12-31T06:15:03.581163"
+    },
+    {
+      "id": "2c1d49f7-796e-4fa4-b5fe-99bbe78eaca3",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.913,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:05.369361"
+    },
+    {
+      "id": "8b1e870f-cf62-4f7f-bcef-54c3abdc8703",
+      "table_number": 9,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "neutral",
+      "confidence": 0.997,
+      "bounding_box": {
+        "x": 373,
+        "y": 89,
+        "w": 157,
+        "h": 157
+      },
+      "captured_at": "2025-12-31T06:15:06.703797"
+    },
+    {
+      "id": "b84fbdce-144f-42ae-abdb-06cc8839dcd0",
+      "table_number": 9,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "neutral",
+      "confidence": 0.94,
+      "bounding_box": {
+        "x": 372,
+        "y": 87,
+        "w": 172,
+        "h": 172
+      },
+      "captured_at": "2025-12-31T06:15:08.130574"
+    },
+    {
+      "id": "993391f0-a1e4-4030-a045-e00868dcf558",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.894,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:09.877136"
+    },
+    {
+      "id": "e75327bb-a7f5-41ed-8586-4a2387c70383",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.98,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:11.629600"
+    },
+    {
+      "id": "c84d2841-bb20-4bb1-b892-6f1ea5c09207",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.997,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:13.510696"
+    },
+    {
+      "id": "0db5e7ba-f051-44cf-b6d9-e4d2eb553fe8",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:15.310320"
+    },
+    {
+      "id": "c83d3b19-dee0-4b6d-a2a5-05089247599d",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.986,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:17.108064"
+    },
+    {
+      "id": "b770d769-5c06-48e7-9a2c-d04df312a283",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:18.884311"
+    },
+    {
+      "id": "03997a5d-bcea-43aa-8b74-b052a23bf590",
+      "table_number": 9,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "sad",
+      "confidence": 0.857,
+      "bounding_box": {
+        "x": 377,
+        "y": 187,
+        "w": 57,
+        "h": 57
+      },
+      "captured_at": "2025-12-31T06:15:20.182603"
+    },
+    {
+      "id": "3d46cb9d-382a-463f-81be-a1ff3173795e",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.742,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:22.024313"
+    },
+    {
+      "id": "e66c96c6-3cf7-4693-af4e-8ca91e8307d3",
+      "table_number": 9,
+      "person_id": "guest_8",
+      "person_type": "guest",
+      "person_name": "Guest 8",
+      "emotion": "happy",
+      "confidence": 0.456,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:23.869872"
+    },
+    {
+      "id": "0b13519c-ea86-4c95-83a2-a8b4685c779c",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 0.64,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:25.709481"
+    },
+    {
+      "id": "3faf6179-4eb2-4a3c-8761-cd9b99812ed2",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:27.468794"
+    },
+    {
+      "id": "e8a0f9a5-65c6-497c-8cad-93fde65e10ae",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.778,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:29.283018"
+    },
+    {
+      "id": "0af6b35c-a39c-4b3d-867a-c1dd8573dd1c",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:31.099731"
+    },
+    {
+      "id": "04824893-6890-4db8-a588-75f068ed2052",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:32.786083"
+    },
+    {
+      "id": "f8675aa7-1bbd-4093-9286-cd0d5d8a246c",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:34.566469"
+    },
+    {
+      "id": "f2faeaca-2680-4de8-8f2e-720d327c13d1",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.928,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:36.345040"
+    },
+    {
+      "id": "19ba9af3-cb53-4f23-828c-76618d31e81b",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:38.103336"
+    },
+    {
+      "id": "39f9751d-309c-4fa9-b598-b4d9ac919ff1",
+      "table_number": 9,
+      "person_id": "guest_9",
+      "person_type": "guest",
+      "person_name": "Guest 9",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:39.891765"
+    },
+    {
+      "id": "949dc807-0717-421b-a394-394d22ecb0b6",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:41.650117"
+    },
+    {
+      "id": "e5029392-89af-4b15-8fb1-51d27dd06832",
+      "table_number": 9,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:43.460798"
+    },
+    {
+      "id": "282e6fd9-0072-49f9-a836-8b9ee709e791",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:45.211233"
+    },
+    {
+      "id": "369f5d72-b9a5-4f24-9359-3345d1b5e891",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:46.983479"
+    },
+    {
+      "id": "971a793f-e228-4e88-bb7f-618946a6fa75",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:48.834964"
+    },
+    {
+      "id": "0fe25fe3-cb6c-4cd3-bf3d-0d0628f45157",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:50.708762"
+    },
+    {
+      "id": "ec906313-c42f-4d71-a75a-f446ccd38e37",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:52.514651"
+    },
+    {
+      "id": "e00d6125-cd49-4bb4-8710-80d97147b995",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:54.311397"
+    },
+    {
+      "id": "482cd0ff-7135-428e-a33b-a74f5f36dce1",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:56.192597"
+    },
+    {
+      "id": "a287557a-7f1f-4f82-a7ca-ee800a453916",
+      "table_number": 9,
+      "person_id": "guest_11",
+      "person_type": "guest",
+      "person_name": "Guest 11",
+      "emotion": "angry",
+      "confidence": 0.592,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:15:57.970138"
+    },
+    {
+      "id": "c8cff3fd-d170-4ff3-a516-7a85d70990a4",
+      "table_number": 9,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "happy",
+      "confidence": 0.984,
+      "bounding_box": {
+        "x": 501,
+        "y": 78,
+        "w": 169,
+        "h": 169
+      },
+      "captured_at": "2025-12-31T06:15:59.300048"
+    },
+    {
+      "id": "79b06a31-acc2-449a-a7c1-17072f9f004f",
+      "table_number": 9,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "happy",
+      "confidence": 0.995,
+      "bounding_box": {
+        "x": 472,
+        "y": 61,
+        "w": 177,
+        "h": 177
+      },
+      "captured_at": "2025-12-31T06:16:00.649655"
+    },
+    {
+      "id": "3e63025d-b03c-40de-b0f6-2c3988882fc6",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:02.384210"
+    },
+    {
+      "id": "443eb377-4fe8-42d8-bf82-e0b63eb1f2df",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:04.216427"
+    },
+    {
+      "id": "a3a65f4f-a37a-4930-8e65-3bfe9bcce986",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:06.047099"
+    },
+    {
+      "id": "eeb8400d-1ea0-48b3-b3a4-6ac4e371ef8a",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.865,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:07.915907"
+    },
+    {
+      "id": "1ea50c3e-49ed-4d49-b478-28af27f0a439",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.875,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:09.662373"
+    },
+    {
+      "id": "d501e2e1-197b-4470-9ab8-2676565d073a",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.78,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:11.369740"
+    },
+    {
+      "id": "72a414d6-7168-4bc0-956d-dffeb9d33aab",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.987,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:13.141131"
+    },
+    {
+      "id": "0587d0fd-ea1c-4c5c-877a-535c302fdc2b",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.723,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:14.921735"
+    },
+    {
+      "id": "656fc5c0-f5ee-45da-bf1d-03e311fe936e",
+      "table_number": 9,
+      "person_id": "guest_8",
+      "person_type": "guest",
+      "person_name": "Guest 8",
+      "emotion": "happy",
+      "confidence": 0.843,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:16.633932"
+    },
+    {
+      "id": "b293bd4d-8e44-488f-9a44-926cf1fe34ef",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.855,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:18.333463"
+    },
+    {
+      "id": "523bf45d-4310-4aa0-bd7d-9433d0b0450a",
+      "table_number": 9,
+      "person_id": "guest_13",
+      "person_type": "guest",
+      "person_name": "Guest 13",
+      "emotion": "neutral",
+      "confidence": 0.618,
+      "bounding_box": {
+        "x": 522,
+        "y": 156,
+        "w": 47,
+        "h": 47
+      },
+      "captured_at": "2025-12-31T06:16:19.635736"
+    },
+    {
+      "id": "8dfd7807-0e1b-48e1-9742-ede7eb6c878e",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:21.458725"
+    },
+    {
+      "id": "af546f0c-d92f-4839-8613-718a2a1ba178",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:23.243238"
+    },
+    {
+      "id": "26602e22-3ae2-4641-802b-0218a731eb9b",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.893,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:25.000541"
+    },
+    {
+      "id": "36be58c1-c30c-4456-909f-5bd165177740",
+      "table_number": 9,
+      "person_id": "guest_14",
+      "person_type": "guest",
+      "person_name": "Guest 14",
+      "emotion": "surprise",
+      "confidence": 0.502,
+      "bounding_box": {
+        "x": 535,
+        "y": 155,
+        "w": 55,
+        "h": 55
+      },
+      "captured_at": "2025-12-31T06:16:26.286363"
+    },
+    {
+      "id": "77d2661a-5217-42e8-ad3d-6ef51d13a890",
+      "table_number": 9,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "neutral",
+      "confidence": 0.915,
+      "bounding_box": {
+        "x": 495,
+        "y": 76,
+        "w": 174,
+        "h": 174
+      },
+      "captured_at": "2025-12-31T06:16:27.672696"
+    },
+    {
+      "id": "1bc05360-6abe-4c5b-a840-c5bd3bb3334a",
+      "table_number": 9,
+      "person_id": "guest_15",
+      "person_type": "guest",
+      "person_name": "Guest 15",
+      "emotion": "angry",
+      "confidence": 0.555,
+      "bounding_box": {
+        "x": 144,
+        "y": 139,
+        "w": 68,
+        "h": 68
+      },
+      "captured_at": "2025-12-31T06:16:28.380637"
+    },
+    {
+      "id": "ff7b32aa-cc31-4226-89bd-36413aa2c9ff",
+      "table_number": 9,
+      "person_id": "guest_15",
+      "person_type": "guest",
+      "person_name": "Guest 15",
+      "emotion": "sad",
+      "confidence": 0.697,
+      "bounding_box": {
+        "x": 141,
+        "y": 128,
+        "w": 68,
+        "h": 68
+      },
+      "captured_at": "2025-12-31T06:16:29.623232"
+    },
+    {
+      "id": "54c9162a-23af-463e-af7e-867a9aeafe77",
+      "table_number": 9,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "neutral",
+      "confidence": 0.426,
+      "bounding_box": {
+        "x": 489,
+        "y": 79,
+        "w": 173,
+        "h": 173
+      },
+      "captured_at": "2025-12-31T06:16:30.398473"
+    },
+    {
+      "id": "329f8403-3ce8-43ed-ac44-50b1dbfa8d95",
+      "table_number": 9,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "neutral",
+      "confidence": 0.786,
+      "bounding_box": {
+        "x": 490,
+        "y": 85,
+        "w": 181,
+        "h": 181
+      },
+      "captured_at": "2025-12-31T06:16:31.807771"
+    },
+    {
+      "id": "02973956-62c3-4bca-abc5-3b782b8cd3f1",
+      "table_number": 9,
+      "person_id": "guest_15",
+      "person_type": "guest",
+      "person_name": "Guest 15",
+      "emotion": "happy",
+      "confidence": 0.591,
+      "bounding_box": {
+        "x": 147,
+        "y": 133,
+        "w": 71,
+        "h": 71
+      },
+      "captured_at": "2025-12-31T06:16:33.145590"
+    },
+    {
+      "id": "bab82852-8099-4119-af04-21bf72cd5d3f",
+      "table_number": 9,
+      "person_id": "guest_12",
+      "person_type": "guest",
+      "person_name": "Guest 12",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 487,
+        "y": 79,
+        "w": 173,
+        "h": 173
+      },
+      "captured_at": "2025-12-31T06:16:34.530537"
+    },
+    {
+      "id": "ff3783ca-1bf7-4391-b152-8b78db81b39f",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "fear",
+      "confidence": 0.733,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:36.369471"
+    },
+    {
+      "id": "40f721a1-17fc-4afa-b93c-6e32b36b3297",
+      "table_number": 9,
+      "person_id": "guest_11",
+      "person_type": "guest",
+      "person_name": "Guest 11",
+      "emotion": "happy",
+      "confidence": 0.991,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:38.169801"
+    },
+    {
+      "id": "2ecc5e67-e1a8-4c38-8cda-2fa62eb8e419",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "fear",
+      "confidence": 0.789,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:40.000544"
+    },
+    {
+      "id": "aebcd179-3b24-4365-b647-829566126b7e",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "neutral",
+      "confidence": 0.799,
+      "bounding_box": {
+        "x": 329,
+        "y": 113,
+        "w": 141,
+        "h": 141
+      },
+      "captured_at": "2025-12-31T06:16:41.262314"
+    },
+    {
+      "id": "da1d9d1d-9756-4d20-85d4-50b4e3bc5dad",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "happy",
+      "confidence": 0.955,
+      "bounding_box": {
+        "x": 351,
+        "y": 113,
+        "w": 130,
+        "h": 130
+      },
+      "captured_at": "2025-12-31T06:16:42.608351"
+    },
+    {
+      "id": "6f96fd65-95f5-45b4-866a-e8601569fce2",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "happy",
+      "confidence": 0.495,
+      "bounding_box": {
+        "x": 351,
+        "y": 86,
+        "w": 125,
+        "h": 125
+      },
+      "captured_at": "2025-12-31T06:16:43.862921"
+    },
+    {
+      "id": "2579378d-98df-4e64-ac1b-2c11229b69d6",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "surprise",
+      "confidence": 0.408,
+      "bounding_box": {
+        "x": 329,
+        "y": 75,
+        "w": 141,
+        "h": 141
+      },
+      "captured_at": "2025-12-31T06:16:45.242623"
+    },
+    {
+      "id": "a5ba5e99-496a-4a3f-9e41-da4fa970b1cc",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "neutral",
+      "confidence": 0.996,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:47.062050"
+    },
+    {
+      "id": "650fae20-37aa-4ef5-b4b0-833d1c0f03ce",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "fear",
+      "confidence": 0.86,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:48.847244"
+    },
+    {
+      "id": "0f476215-4c76-48eb-b96e-3b3ed52625ad",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.915,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:50.672137"
+    },
+    {
+      "id": "bea73684-8623-48d1-89c8-0a20a9125b73",
+      "table_number": 9,
+      "person_id": "guest_16",
+      "person_type": "guest",
+      "person_name": "Guest 16",
+      "emotion": "fear",
+      "confidence": 0.989,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:52.506971"
+    },
+    {
+      "id": "01db430d-9ad8-489e-8d36-33ea62ea505f",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:16:54.372155"
+    },
+    {
+      "id": "172e1a44-6c2b-4900-bd22-1e6325fd0bd4",
+      "table_number": 9,
+      "person_id": "guest_17",
+      "person_type": "guest",
+      "person_name": "Guest 17",
+      "emotion": "disgust",
+      "confidence": 0.78,
+      "bounding_box": {
+        "x": 594,
+        "y": 111,
+        "w": 51,
+        "h": 51
+      },
+      "captured_at": "2025-12-31T06:16:55.603608"
+    },
+    {
+      "id": "d27680fd-22fe-4c25-b9a3-7cb7e2acb5d6",
+      "table_number": 9,
+      "person_id": "guest_17",
+      "person_type": "guest",
+      "person_name": "Guest 17",
+      "emotion": "happy",
+      "confidence": 0.578,
+      "bounding_box": {
+        "x": 592,
+        "y": 100,
+        "w": 55,
+        "h": 55
+      },
+      "captured_at": "2025-12-31T06:16:56.818207"
+    },
+    {
+      "id": "8c893553-ed08-46c7-8c39-2c5bbde61a06",
+      "table_number": 9,
+      "person_id": "guest_17",
+      "person_type": "guest",
+      "person_name": "Guest 17",
+      "emotion": "happy",
+      "confidence": 0.605,
+      "bounding_box": {
+        "x": 603,
+        "y": 108,
+        "w": 41,
+        "h": 41
+      },
+      "captured_at": "2025-12-31T06:16:58.083627"
+    },
+    {
+      "id": "2d2fff4a-c39f-45e6-98b6-d7a1b2212f5f",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.986,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:00.168528"
+    },
+    {
+      "id": "be8c34f2-0bd2-499d-8a93-f8b7d6d84da8",
+      "table_number": 9,
+      "person_id": "guest_10",
+      "person_type": "guest",
+      "person_name": "Guest 10",
+      "emotion": "happy",
+      "confidence": 0.989,
+      "bounding_box": {
+        "x": 564,
+        "y": 164,
+        "w": 59,
+        "h": 59
+      },
+      "captured_at": "2025-12-31T06:17:01.463696"
+    },
+    {
+      "id": "5427b608-b5f4-4b5a-92b6-74031189ef4d",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:03.316240"
+    },
+    {
+      "id": "fa831061-cbe3-4e95-95c0-b880b8f154fd",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "angry",
+      "confidence": 0.87,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:05.068009"
+    },
+    {
+      "id": "80945746-f2d9-491f-859d-8dd0123da516",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "angry",
+      "confidence": 0.902,
+      "bounding_box": {
+        "x": 277,
+        "y": 75,
+        "w": 277,
+        "h": 277
+      },
+      "captured_at": "2025-12-31T06:17:06.502881"
+    },
+    {
+      "id": "5c9a425f-261a-4f0c-8766-48fc6e85013a",
+      "table_number": 9,
+      "person_id": "guest_18",
+      "person_type": "guest",
+      "person_name": "Guest 18",
+      "emotion": "happy",
+      "confidence": 0.862,
+      "bounding_box": {
+        "x": 251,
+        "y": 247,
+        "w": 62,
+        "h": 62
+      },
+      "captured_at": "2025-12-31T06:17:07.801955"
+    },
+    {
+      "id": "dd393252-f378-4147-8f1b-92c4e5c00dde",
+      "table_number": 9,
+      "person_id": "guest_19",
+      "person_type": "guest",
+      "person_name": "Guest 19",
+      "emotion": "fear",
+      "confidence": 0.797,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:09.707034"
+    },
+    {
+      "id": "729c1dbe-c8e3-4650-96e6-3f0650f44069",
+      "table_number": 9,
+      "person_id": "guest_20",
+      "person_type": "guest",
+      "person_name": "Guest 20",
+      "emotion": "neutral",
+      "confidence": 0.875,
+      "bounding_box": {
+        "x": 199,
+        "y": 137,
+        "w": 107,
+        "h": 107
+      },
+      "captured_at": "2025-12-31T06:17:10.985470"
+    },
+    {
+      "id": "ce2f2866-1992-4348-99fc-6f0727c1aaf4",
+      "table_number": 9,
+      "person_id": "guest_21",
+      "person_type": "guest",
+      "person_name": "Guest 21",
+      "emotion": "neutral",
+      "confidence": 0.974,
+      "bounding_box": {
+        "x": 286,
+        "y": 157,
+        "w": 242,
+        "h": 242
+      },
+      "captured_at": "2025-12-31T06:17:12.505068"
+    },
+    {
+      "id": "4742a25b-50d5-4b1a-a33b-8e896fcd1094",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:14.370776"
+    },
+    {
+      "id": "636b2f59-11ec-4e24-b939-d4ce2ded01cc",
+      "table_number": 9,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "happy",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 619,
+        "y": 63,
+        "w": 122,
+        "h": 122
+      },
+      "captured_at": "2025-12-31T06:17:15.779618"
+    },
+    {
+      "id": "0252dbfc-4cb8-477d-9010-64d033eaaf8a",
+      "table_number": 9,
+      "person_id": "guest_22",
+      "person_type": "guest",
+      "person_name": "Guest 22",
+      "emotion": "fear",
+      "confidence": 0.984,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:17.491648"
+    },
+    {
+      "id": "6458e4ab-2528-43e8-908e-54cffc771f54",
+      "table_number": 9,
+      "person_id": "guest_23",
+      "person_type": "guest",
+      "person_name": "Guest 23",
+      "emotion": "happy",
+      "confidence": 0.736,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:19.266112"
+    },
+    {
+      "id": "22da0f7c-a958-4410-a954-64414add6c81",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:21.061526"
+    },
+    {
+      "id": "7ad7a964-f064-4394-aac5-8471b238884f",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 1.0,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:22.864334"
+    },
+    {
+      "id": "a7f70382-b61d-4631-9ae2-7ed56877fffb",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 0.535,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:24.630744"
+    },
+    {
+      "id": "9340f16d-7bb8-4338-ad7c-933ae23af07a",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.94,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:26.403358"
+    },
+    {
+      "id": "2fc91973-d8b8-45a8-bd41-14356831ea06",
+      "table_number": 9,
+      "person_id": "guest_14",
+      "person_type": "guest",
+      "person_name": "Guest 14",
+      "emotion": "fear",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:28.184482"
+    },
+    {
+      "id": "5d5713d5-658c-4f0c-a877-209eb9ccf1ec",
+      "table_number": 9,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "fear",
+      "confidence": 0.778,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:30.049659"
+    },
+    {
+      "id": "67670f8f-a0c6-4c6e-9435-dc1f3c8ab3e9",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.854,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:31.858029"
+    },
+    {
+      "id": "122c24be-1c20-4044-8be8-846589e6485a",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.997,
+      "bounding_box": {
+        "x": 25,
+        "y": 132,
+        "w": 104,
+        "h": 104
+      },
+      "captured_at": "2025-12-31T06:17:33.189052"
+    },
+    {
+      "id": "070a5860-6399-4190-a8b5-9b04ccf968b4",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.997,
+      "bounding_box": {
+        "x": 24,
+        "y": 130,
+        "w": 107,
+        "h": 107
+      },
+      "captured_at": "2025-12-31T06:17:34.408607"
+    },
+    {
+      "id": "f249ea37-7f17-40e1-98a6-04bada9e97a7",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.997,
+      "bounding_box": {
+        "x": 26,
+        "y": 134,
+        "w": 103,
+        "h": 103
+      },
+      "captured_at": "2025-12-31T06:17:35.741339"
+    },
+    {
+      "id": "f5135af8-9ff3-44cc-894e-503f2dc5a2e4",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.934,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:37.520026"
+    },
+    {
+      "id": "c9b36fe3-b3f0-46f2-a78c-8956548f35c7",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.661,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:39.304913"
+    },
+    {
+      "id": "a537b0f5-5470-4be7-97c6-70d40a16eeed",
+      "table_number": 10,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "neutral",
+      "confidence": 0.416,
+      "bounding_box": {
+        "x": 366,
+        "y": 119,
+        "w": 172,
+        "h": 172
+      },
+      "captured_at": "2025-12-31T06:17:40.614262"
+    },
+    {
+      "id": "a86848f5-a7e9-4793-8e15-d9c4fbe1d5ff",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "neutral",
+      "confidence": 0.551,
+      "bounding_box": {
+        "x": 357,
+        "y": 124,
+        "w": 179,
+        "h": 179
+      },
+      "captured_at": "2025-12-31T06:17:41.961095"
+    },
+    {
+      "id": "995fed26-69d6-468d-aa0c-c6bdbe5f7b02",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "neutral",
+      "confidence": 0.906,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:43.684754"
+    },
+    {
+      "id": "23a29f53-3d0c-4b19-bc59-654ff1f51036",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "neutral",
+      "confidence": 0.992,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:45.538260"
+    },
+    {
+      "id": "9c83f2a6-e454-41e8-b62b-c8c9e2c8ade7",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "neutral",
+      "confidence": 0.925,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:47.220278"
+    },
+    {
+      "id": "006602b0-c805-4210-b933-54eae863f989",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "fear",
+      "confidence": 0.893,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:49.045470"
+    },
+    {
+      "id": "5acb6cb9-553b-412b-b088-eec60e6359de",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "fear",
+      "confidence": 0.578,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:50.851418"
+    },
+    {
+      "id": "061739e8-5f21-4dce-88e5-e141b876bd7b",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "sad",
+      "confidence": 0.516,
+      "bounding_box": {
+        "x": 370,
+        "y": 114,
+        "w": 188,
+        "h": 188
+      },
+      "captured_at": "2025-12-31T06:17:52.100351"
+    },
+    {
+      "id": "b424222e-72a7-478d-ab39-56967434bf07",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "sad",
+      "confidence": 0.604,
+      "bounding_box": {
+        "x": 374,
+        "y": 116,
+        "w": 182,
+        "h": 182
+      },
+      "captured_at": "2025-12-31T06:17:53.406138"
+    },
+    {
+      "id": "af8becc8-ace4-417b-a0bf-0508832f7a3e",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.478,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:55.259190"
+    },
+    {
+      "id": "c0d55b6a-6ecb-4d1d-b513-230c749ef8dd",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.78,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:57.062555"
+    },
+    {
+      "id": "dd4e2614-c50b-4175-a53c-1ad39a007a0f",
+      "table_number": 10,
+      "person_id": "guest_4",
+      "person_type": "guest",
+      "person_name": "Guest 4",
+      "emotion": "fear",
+      "confidence": 0.721,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:17:58.848070"
+    },
+    {
+      "id": "6b2daac4-9306-4427-b3bf-132a81867300",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.794,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:00.547594"
+    },
+    {
+      "id": "dd47a6ce-2a7e-41df-977c-eb883d5c2c56",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.875,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:02.318116"
+    },
+    {
+      "id": "543b4b8c-bdb7-44db-936e-c31dfc73a3bc",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "neutral",
+      "confidence": 0.808,
+      "bounding_box": {
+        "x": 251,
+        "y": 130,
+        "w": 63,
+        "h": 63
+      },
+      "captured_at": "2025-12-31T06:18:03.674038"
+    },
+    {
+      "id": "b9a8bb7e-99e5-4682-badb-1309f80ee368",
+      "table_number": 10,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "neutral",
+      "confidence": 0.915,
+      "bounding_box": {
+        "x": 510,
+        "y": 311,
+        "w": 59,
+        "h": 59
+      },
+      "captured_at": "2025-12-31T06:18:04.389105"
+    },
+    {
+      "id": "7889e7ba-171c-4818-ab3c-95074e775905",
+      "table_number": 10,
+      "person_id": "guest_6",
+      "person_type": "guest",
+      "person_name": "Guest 6",
+      "emotion": "neutral",
+      "confidence": 0.887,
+      "bounding_box": {
+        "x": 803,
+        "y": 288,
+        "w": 44,
+        "h": 51
+      },
+      "captured_at": "2025-12-31T06:18:05.087088"
+    },
+    {
+      "id": "3c503572-f808-49c3-bb3a-9788cf27586d",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "neutral",
+      "confidence": 0.879,
+      "bounding_box": {
+        "x": 247,
+        "y": 132,
+        "w": 64,
+        "h": 64
+      },
+      "captured_at": "2025-12-31T06:18:06.539636"
+    },
+    {
+      "id": "1ded440e-75ae-4a2f-b666-a3ed24949124",
+      "table_number": 10,
+      "person_id": "guest_5",
+      "person_type": "guest",
+      "person_name": "Guest 5",
+      "emotion": "neutral",
+      "confidence": 0.908,
+      "bounding_box": {
+        "x": 516,
+        "y": 304,
+        "w": 63,
+        "h": 63
+      },
+      "captured_at": "2025-12-31T06:18:07.225610"
+    },
+    {
+      "id": "06cd80c8-525b-4354-b4de-e7173c9ef80a",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "neutral",
+      "confidence": 0.907,
+      "bounding_box": {
+        "x": 229,
+        "y": 134,
+        "w": 64,
+        "h": 64
+      },
+      "captured_at": "2025-12-31T06:18:08.574358"
+    },
+    {
+      "id": "42fcccbf-e0fb-445b-b847-cd70f5b38d58",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "neutral",
+      "confidence": 0.927,
+      "bounding_box": {
+        "x": 205,
+        "y": 134,
+        "w": 65,
+        "h": 65
+      },
+      "captured_at": "2025-12-31T06:18:09.831500"
+    },
+    {
+      "id": "4176f7cc-443c-4d77-bb5e-3e66292017ab",
+      "table_number": 10,
+      "person_id": "guest_2",
+      "person_type": "guest",
+      "person_name": "Guest 2",
+      "emotion": "neutral",
+      "confidence": 0.87,
+      "bounding_box": {
+        "x": 204,
+        "y": 131,
+        "w": 66,
+        "h": 66
+      },
+      "captured_at": "2025-12-31T06:18:11.048705"
+    },
+    {
+      "id": "7422d789-1be0-40a2-93ce-abbfd55aa536",
+      "table_number": 10,
+      "person_id": "staff_Dhanush",
+      "person_type": "staff",
+      "person_name": "Dhanush",
+      "emotion": "neutral",
+      "confidence": 0.866,
+      "bounding_box": {
+        "x": 217,
+        "y": 136,
+        "w": 67,
+        "h": 67
+      },
+      "captured_at": "2025-12-31T06:18:12.444073"
+    },
+    {
+      "id": "8b3aa96a-124a-4a3c-86dd-4d4d498b6527",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:14.165169"
+    },
+    {
+      "id": "8bc572f8-a28b-4c1a-ac12-51fd076302f0",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "happy",
+      "confidence": 0.966,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:15.946109"
+    },
+    {
+      "id": "e527f300-8bc1-40c9-904a-75a335f9dda9",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.842,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:17.707791"
+    },
+    {
+      "id": "af92933c-dea6-497e-8e36-b45067328953",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "happy",
+      "confidence": 0.919,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:19.397897"
+    },
+    {
+      "id": "72f3a2d4-60b7-4b5b-9cd9-050eb8d0f4b2",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.875,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:21.140245"
+    },
+    {
+      "id": "e1701750-64bb-415d-9c2e-cccd69c087c3",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "sad",
+      "confidence": 0.916,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:22.938395"
+    },
+    {
+      "id": "8b0e5b10-0a62-47a7-a56b-56551dbe3465",
+      "table_number": 10,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "angry",
+      "confidence": 0.48,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:24.732290"
+    },
+    {
+      "id": "17c2a16c-c570-4e89-aff1-6e0e27c705fc",
+      "table_number": 10,
+      "person_id": "guest_8",
+      "person_type": "guest",
+      "person_name": "Guest 8",
+      "emotion": "fear",
+      "confidence": 0.99,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:26.479471"
+    },
+    {
+      "id": "c821e9cc-8662-4c42-9137-f74783dfb7e7",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "fear",
+      "confidence": 0.952,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:28.212318"
+    },
+    {
+      "id": "1596d133-fede-4946-a14b-8d987b43c596",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "fear",
+      "confidence": 0.994,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:29.973643"
+    },
+    {
+      "id": "56efd06c-53e4-4026-9e8a-e0b96d64bf3d",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "fear",
+      "confidence": 0.841,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:31.743488"
+    },
+    {
+      "id": "46cba91e-0e6b-42ba-8276-01a908a0bf89",
+      "table_number": 10,
+      "person_id": "guest_1",
+      "person_type": "guest",
+      "person_name": "Guest 1",
+      "emotion": "angry",
+      "confidence": 0.668,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:33.601122"
+    },
+    {
+      "id": "ccbfc119-a22d-41d8-9358-c555e27eecfc",
+      "table_number": 10,
+      "person_id": "staff_Kiran",
+      "person_type": "staff",
+      "person_name": "Kiran",
+      "emotion": "angry",
+      "confidence": 0.788,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:35.324268"
+    },
+    {
+      "id": "1aa6af44-b8b5-4734-bea3-70071e3c865f",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "neutral",
+      "confidence": 0.686,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:37.590496"
+    },
+    {
+      "id": "c41f8ffb-2c25-4c1d-9f89-919d9e86789b",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "angry",
+      "confidence": 0.96,
+      "bounding_box": {
+        "x": 58,
+        "y": 98,
+        "w": 102,
+        "h": 102
+      },
+      "captured_at": "2025-12-31T06:18:38.868020"
+    },
+    {
+      "id": "a695edd7-65f6-44be-9297-9319f05a7c56",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "angry",
+      "confidence": 0.955,
+      "bounding_box": {
+        "x": 61,
+        "y": 100,
+        "w": 98,
+        "h": 98
+      },
+      "captured_at": "2025-12-31T06:18:40.222626"
+    },
+    {
+      "id": "a82d56c6-2e0f-4ab2-8d87-df4fbede7f62",
+      "table_number": 10,
+      "person_id": "guest_3",
+      "person_type": "guest",
+      "person_name": "Guest 3",
+      "emotion": "angry",
+      "confidence": 0.866,
+      "bounding_box": {
+        "x": 279,
+        "y": 116,
+        "w": 78,
+        "h": 78
+      },
+      "captured_at": "2025-12-31T06:18:41.428382"
+    },
+    {
+      "id": "4d1ae433-5805-4890-9494-f861d133d82f",
+      "table_number": 10,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "fear",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:43.252165"
+    },
+    {
+      "id": "27dc04a9-bcce-4e5b-a12b-110e24f34cb0",
+      "table_number": 10,
+      "person_id": "guest_7",
+      "person_type": "guest",
+      "person_name": "Guest 7",
+      "emotion": "fear",
+      "confidence": 0.999,
+      "bounding_box": {
+        "x": 0,
+        "y": 0,
+        "w": 847,
+        "h": 477
+      },
+      "captured_at": "2025-12-31T06:18:45.139168"
+    }
+  ],
+  "tables": [
+    {
+      "id": "c7db604e-b0cf-44bf-a118-c784ab68579e",
+      "table_number": "01",
+      "start_time": "2025-12-31T06:11:31.037806",
+      "end_time": "2025-12-31T06:13:40.295510",
+      "guests": [
+        "guest_16",
+        "guest_10",
+        "guest_4",
+        "guest_18",
+        "guest_5",
+        "guest_1",
+        "guest_8",
+        "guest_3",
+        "guest_9",
+        "guest_2",
+        "guest_19",
+        "guest_13",
+        "guest_20",
+        "guest_7",
+        "guest_17",
+        "guest_6",
+        "guest_22",
+        "guest_11",
+        "guest_12",
+        "guest_14",
+        "guest_15",
+        "guest_21"
+      ],
+      "staff": [
+        "Ram",
+        "Oviya"
+      ]
+    },
+    {
+      "id": "34013476-11e8-4dec-9050-82431a989b9d",
+      "table_number": "02",
+      "start_time": "2025-12-31T06:13:40.295510",
+      "end_time": "2025-12-31T06:14:29.409259",
+      "guests": [
+        "guest_4",
+        "guest_5",
+        "guest_3",
+        "guest_7",
+        "guest_2",
+        "guest_6",
+        "guest_1"
+      ],
+      "staff": []
+    },
+    {
+      "id": "33e027fc-03c0-463c-8c92-157e859ffbca",
+      "table_number": "03",
+      "start_time": "2025-12-31T06:14:29.410846",
+      "end_time": "2025-12-31T06:14:31.145778",
+      "guests": [
+        "guest_1"
+      ],
+      "staff": []
+    },
+    {
+      "id": "a7ba16db-1cb6-4ae7-9c9a-ef797294f255",
+      "table_number": "04",
+      "start_time": "2025-12-31T06:14:31.145778",
+      "end_time": "2025-12-31T06:14:44.098146",
+      "guests": [
+        "guest_2",
+        "guest_1",
+        "guest_4",
+        "guest_3"
+      ],
+      "staff": [
+        "Ram"
+      ]
+    },
+    {
+      "id": "4f953d5b-5d0d-4e15-b11c-f9ea018468b1",
+      "table_number": "05",
+      "start_time": "2025-12-31T06:14:44.098146",
+      "end_time": "2025-12-31T06:14:45.809139",
+      "guests": [
+        "guest_1"
+      ],
+      "staff": []
+    },
+    {
+      "id": "113b5be7-3970-4958-a8f7-fdbc4f6a5e41",
+      "table_number": "06",
+      "start_time": "2025-12-31T06:14:45.809139",
+      "end_time": "2025-12-31T06:14:49.482548",
+      "guests": [
+        "guest_1"
+      ],
+      "staff": []
+    },
+    {
+      "id": "21e7f14a-0bc7-42e0-a6ea-e1b7838f4fb5",
+      "table_number": "07",
+      "start_time": "2025-12-31T06:14:49.482548",
+      "end_time": "2025-12-31T06:14:51.199083",
+      "guests": [],
+      "staff": [
+        "Ravi"
+      ]
+    },
+    {
+      "id": "c02727e1-f3f5-4134-9cdb-79034618fe74",
+      "table_number": "08",
+      "start_time": "2025-12-31T06:14:51.199083",
+      "end_time": "2025-12-31T06:14:53.005044",
+      "guests": [
+        "guest_1"
+      ],
+      "staff": []
+    },
+    {
+      "id": "0782ece4-14f3-49a5-bcfb-7709b0c047e7",
+      "table_number": "09",
+      "start_time": "2025-12-31T06:14:53.005044",
+      "end_time": "2025-12-31T06:17:30.391569",
+      "guests": [
+        "guest_16",
+        "guest_10",
+        "guest_4",
+        "guest_18",
+        "guest_5",
+        "guest_1",
+        "guest_8",
+        "guest_3",
+        "guest_9",
+        "guest_2",
+        "guest_23",
+        "guest_19",
+        "guest_13",
+        "guest_20",
+        "guest_7",
+        "guest_17",
+        "guest_6",
+        "guest_22",
+        "guest_11",
+        "guest_12",
+        "guest_14",
+        "guest_15",
+        "guest_21"
+      ],
+      "staff": [
+        "Kiran",
+        "Ravi"
+      ]
+    },
+    {
+      "id": "69af621b-1fa8-4892-8d7e-ce38b31778e0",
+      "table_number": "10",
+      "start_time": "2025-12-31T06:17:30.393048",
+      "end_time": "2025-12-31T06:18:45.156192",
+      "guests": [
+        "guest_4",
+        "guest_8",
+        "guest_5",
+        "guest_3",
+        "guest_7",
+        "guest_2",
+        "guest_6",
+        "guest_1"
+      ],
+      "staff": [
+        "Kiran",
+        "Dhanush"
+      ]
+    }
+  ],
+  "table_sentiments": {
+    "1": {
+      "guest_sentiment": {
+        "avg_happiness": 32,
+        "dominant": "sad",
+        "trend": "stable",
+        "counts": {
+          "sad": 18,
+          "fear": 15,
+          "happy": 12,
+          "neutral": 13,
+          "angry": 18
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 48,
+        "dominant": "neutral",
+        "trend": "deteriorating",
+        "counts": {
+          "neutral": 3,
+          "happy": 1,
+          "sad": 2
+        }
+      },
+      "guest_count": 22,
+      "staff_list": [
+        "Ram",
+        "Oviya"
+      ]
+    },
+    "2": {
+      "guest_sentiment": {
+        "avg_happiness": 32,
+        "dominant": "fear",
+        "trend": "stable",
+        "counts": {
+          "sad": 6,
+          "fear": 8,
+          "angry": 4,
+          "neutral": 7,
+          "happy": 3,
+          "surprise": 1
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "neutral",
+        "trend": "stable"
+      },
+      "guest_count": 7,
+      "staff_list": []
+    },
+    "3": {
+      "guest_sentiment": {
+        "avg_happiness": 100,
+        "dominant": "happy",
+        "trend": "stable",
+        "counts": {
+          "happy": 1
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "neutral",
+        "trend": "stable"
+      },
+      "guest_count": 1,
+      "staff_list": []
+    },
+    "4": {
+      "guest_sentiment": {
+        "avg_happiness": 47,
+        "dominant": "fear",
+        "trend": "deteriorating",
+        "counts": {
+          "fear": 2,
+          "happy": 2,
+          "neutral": 2,
+          "angry": 1
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 50,
+        "dominant": "neutral",
+        "trend": "stable",
+        "counts": {
+          "neutral": 1
+        }
+      },
+      "guest_count": 4,
+      "staff_list": [
+        "Ram"
+      ]
+    },
+    "5": {
+      "guest_sentiment": {
+        "avg_happiness": 50,
+        "dominant": "neutral",
+        "trend": "stable",
+        "counts": {
+          "neutral": 1
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "neutral",
+        "trend": "stable"
+      },
+      "guest_count": 1,
+      "staff_list": []
+    },
+    "6": {
+      "guest_sentiment": {
+        "avg_happiness": 15,
+        "dominant": "fear",
+        "trend": "stable",
+        "counts": {
+          "fear": 2
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "neutral",
+        "trend": "stable"
+      },
+      "guest_count": 1,
+      "staff_list": []
+    },
+    "7": {
+      "guest_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "neutral",
+        "trend": "stable"
+      },
+      "staff_sentiment": {
+        "avg_happiness": 100,
+        "dominant": "happy",
+        "trend": "stable",
+        "counts": {
+          "happy": 1
+        }
+      },
+      "guest_count": 0,
+      "staff_list": [
+        "Ravi"
+      ]
+    },
+    "8": {
+      "guest_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "angry",
+        "trend": "stable",
+        "counts": {
+          "angry": 1
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 0,
+        "dominant": "neutral",
+        "trend": "stable"
+      },
+      "guest_count": 1,
+      "staff_list": []
+    },
+    "9": {
+      "guest_sentiment": {
+        "avg_happiness": 64,
+        "dominant": "happy",
+        "trend": "deteriorating",
+        "counts": {
+          "neutral": 15,
+          "fear": 19,
+          "angry": 7,
+          "happy": 49,
+          "sad": 2,
+          "surprise": 2,
+          "disgust": 1
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 57,
+        "dominant": "happy",
+        "trend": "stable",
+        "counts": {
+          "happy": 1,
+          "fear": 1
+        }
+      },
+      "guest_count": 23,
+      "staff_list": [
+        "Kiran",
+        "Ravi"
+      ]
+    },
+    "10": {
+      "guest_sentiment": {
+        "avg_happiness": 28,
+        "dominant": "fear",
+        "trend": "stable",
+        "counts": {
+          "angry": 6,
+          "neutral": 12,
+          "fear": 14,
+          "sad": 5,
+          "happy": 2
+        }
+      },
+      "staff_sentiment": {
+        "avg_happiness": 37,
+        "dominant": "neutral",
+        "trend": "stable",
+        "counts": {
+          "neutral": 6,
+          "sad": 2,
+          "angry": 1
+        }
+      },
+      "guest_count": 8,
+      "staff_list": [
+        "Kiran",
+        "Dhanush"
+      ]
+    }
+  },
+  "alerts": [
+    {
+      "id": "6d77e898-dcda-4534-8805-7e77bd9b9345",
+      "table_number": 1,
+      "alert_type": "dispute_customers",
+      "severity": "urgent",
+      "title": "Table 01: Guest Dispute",
+      "description": "Multiple angry guests detected. Possible dispute among guests.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:11:48.438997"
+    },
+    {
+      "id": "10282f09-aec0-4c0e-9ae2-47f1c8aef13b",
+      "table_number": 1,
+      "alert_type": "service_dissatisfaction",
+      "severity": "warning",
+      "title": "Table 01: Service Issue",
+      "description": "Negative emotions from both guest and staff. Check service quality.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:13:11.700859"
+    },
+    {
+      "id": "871bc377-9a76-497a-a4ea-5987c1f9e7ab",
+      "table_number": 2,
+      "alert_type": "dispute_customers",
+      "severity": "urgent",
+      "title": "Table 02: Guest Dispute",
+      "description": "Multiple angry guests detected. Possible dispute among guests.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:13:48.707483"
+    },
+    {
+      "id": "96586c25-23af-44cf-8a92-f7749e38cd48",
+      "table_number": 9,
+      "alert_type": "dispute_customers",
+      "severity": "urgent",
+      "title": "Table 09: Guest Dispute",
+      "description": "Multiple angry guests detected. Possible dispute among guests.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:15:02.187177"
+    },
+    {
+      "id": "ddde24ee-e4f8-4928-84a1-22a98364b5d2",
+      "table_number": 10,
+      "alert_type": "service_dissatisfaction",
+      "severity": "warning",
+      "title": "Table 10: Service Issue",
+      "description": "Negative emotions from both guest and staff. Check service quality.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:17:52.100351"
+    },
+    {
+      "id": "83cd2f28-4875-46a6-a034-69712e4c4611",
+      "table_number": 10,
+      "alert_type": "dispute_customers",
+      "severity": "urgent",
+      "title": "Table 10: Guest Dispute",
+      "description": "Multiple angry guests detected. Possible dispute among guests.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:18:33.601122"
+    },
+    {
+      "id": "d85e023e-c6f4-4ccb-bb7c-f85b2ee8a637",
+      "table_number": 10,
+      "alert_type": "dispute_staff_customer",
+      "severity": "urgent",
+      "title": "Table 10: Staff-Customer Dispute",
+      "description": "Both staff and customer showing anger. Immediate intervention needed.",
+      "is_resolved": false,
+      "created_at": "2025-12-31T06:18:35.324268"
+    }
+  ],
+  "staff_performance": [
+    {
+      "name": "Ravi",
+      "score": 100,
+      "badge": "High Empathy",
+      "category": "top_performer",
+      "dominant_emotion": "happy",
+      "tables_served": 2,
+      "resolved_negative_trends": 0,
+      "detection_count": 2,
+      "rank": 1
+    },
+    {
+      "name": "Oviya",
+      "score": 75.0,
+      "badge": "High Empathy",
+      "category": "top_performer",
+      "dominant_emotion": "neutral",
+      "tables_served": 1,
+      "resolved_negative_trends": 0,
+      "detection_count": 2,
+      "rank": 2
+    },
+    {
+      "name": "Dhanush",
+      "score": 42.5,
+      "badge": "Needs Support",
+      "category": "needs_support",
+      "dominant_emotion": "neutral",
+      "tables_served": 1,
+      "resolved_negative_trends": 0,
+      "detection_count": 8,
+      "rank": 3
+    },
+    {
+      "name": "Ram",
+      "score": 38.0,
+      "badge": "Needs Support",
+      "category": "needs_support",
+      "dominant_emotion": "neutral",
+      "tables_served": 2,
+      "resolved_negative_trends": 0,
+      "detection_count": 5,
+      "rank": 4
+    },
+    {
+      "name": "Kiran",
+      "score": 7.5,
+      "badge": "Needs Support",
+      "category": "needs_support",
+      "dominant_emotion": "fear",
+      "tables_served": 2,
+      "resolved_negative_trends": 0,
+      "detection_count": 2,
+      "rank": 5
+    }
+  ],
+  "realtime_metrics": {
+    "total_walkins": 68,
+    "happy_pct": 27,
+    "neutral_pct": 19,
+    "confused_pct": 25,
+    "angry_pct": 27,
+    "service_score": 28
+  },
+  "summary": {
+    "total_snapshots": 270,
+    "total_tables": 10,
+    "total_guests": 68,
+    "total_alerts": 7,
+    "staff_detected": [
+      "Oviya",
+      "Ram",
+      "Ravi",
+      "Kiran",
+      "Dhanush"
+    ]
+  }
+}
